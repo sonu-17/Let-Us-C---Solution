@@ -12,3 +12,4 @@ SR No   | Program | Author
 4 | Selection Sort   |[Vats kumar Sourav](https://github.com/Vatss9)
 5 | Factorial | [Bijay kumar yadav](https://github.com/bijaykumarshiv)
 6 | Palindrome | [Amit Kumar Mondal](https://github.com/Amit5620)
+7 |Prime number till N| [Sonu kumar Ranjan] (https://github.com/sonu-17)
